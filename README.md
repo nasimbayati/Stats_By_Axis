@@ -39,10 +39,15 @@ python stats_by_axis.py --rows 5 --cols 4 --seed 7 --low 10 --high 99
 
 ## Example Output
 Input array (shape (4, 3)):
+
 [[ 1  2  3]
+
  [ 4  5  6]
+ 
  [ 7  8  9]
+ 
  [10 11 12]] 
+ 
  
 
 Means by row:    [ 2.,  5.,  8., 11.]
@@ -56,5 +61,6 @@ Sums by col:     [22, 26, 30]
 Medians by row:  [ 2.,  5.,  8., 11.]
 
 Medians by col:  [5.5, 6.5, 7.5]
+
 
 
