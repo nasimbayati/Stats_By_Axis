@@ -43,10 +43,18 @@ Input array (shape (4, 3)):
  [ 4  5  6]
  [ 7  8  9]
  [10 11 12]] 
+ 
 
 Means by row:    [ 2.,  5.,  8., 11.]
+
 Means by col:    [5.5, 6.5, 7.5]
+
 Sums by row:     [ 6, 15, 24, 33]
+
 Sums by col:     [22, 26, 30]
+
 Medians by row:  [ 2.,  5.,  8., 11.]
+
 Medians by col:  [5.5, 6.5, 7.5]
+
+
